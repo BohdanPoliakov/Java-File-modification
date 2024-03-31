@@ -12,10 +12,10 @@ The program must handle print, format and exit queries. Until the user enters th
 
 Command format:
 
-print filename
+-print filename
 
-format filename
+-format filename
 
-exit
+-exit
 
 # It is forbidden to modify files in the "files" folder.
